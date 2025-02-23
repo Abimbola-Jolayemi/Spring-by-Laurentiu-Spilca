@@ -1,4 +1,4 @@
-package africa.semicolon.chapterFive.prototypeBean.firstPackage;
+package africa.semicolon.chapterFive.prototypeBean.beanPackage;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
